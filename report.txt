@@ -43,4 +43,4 @@ Report on Chatbot Performance and Findings
 Conclusion
 
 Overall, the bots performed well in guiding users through their respective tasks, though there are opportunities to refine their logic and context management. 
-Improving these aspects would make the​⬤
+Improving these aspects would make the​ bot more effective and user-friendly.
